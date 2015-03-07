@@ -26,3 +26,20 @@ If the sensor detects the magnets, it should send you a message over Serial. How
 j - Sensor 1
 k - Sensor 2
 l - Sensor 3
+
+
+below is the result of the test 
+
+motor 1
+corresponding to rope 3
+a - Motor 1 Move Left (1 Sec) correct
+s - Motor 1 Move Right (1 Sec) correct
+
+motor 2
+corresponding to rope 1
+d - Motor 2 Move Left (1 Sec) correct 
+f - Motor 2 Move Right (1 Sec) correct 
+
+motor 3
+corresponding to rope 2
+Commands are not working
